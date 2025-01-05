@@ -6,3 +6,4 @@
 - It can work for both Adressable and Non Adressable LED Strips if you uncomment the code for the Adreesabele ones (leds.setPixelColor) and make a separate loop for the Non Adressable ones.
 - The Non Adressable Strips must always have 1 LED in configuration.
 - Hardware Lightning doesn't work yet.
+- For how to connect the analog LED Strip to the Raspberry as an example watch here https://www.youtube.com/watch?v=WtP7sxWSF9c
